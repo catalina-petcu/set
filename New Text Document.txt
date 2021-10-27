@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/2400262/how-can-i-schedule-updates-f-e-to-update-a-clock-in-tkinter
+
+https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=2153100
+
+https://www.delftstack.com/howto/python-tkinter/how-to-change-the-tkinter-label-text/
